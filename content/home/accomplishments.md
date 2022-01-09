@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/GYPLDT8XHWMW
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-10-28"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: What is Data Science?
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
@@ -43,7 +43,7 @@ item:
   date_end: ""
   date_start: "2021-07-09"
   description: ""
-  organization: nvidia
+  organization: NVIDIA
   organization_url: https://courses.nvidia.com
   title: NVIDIA DLI Certificate – Fundamentals of Accelerated Data Science with RAPIDS
   url: https://courses.nvidia.com/courses/course-v1:DLI+C-DS-02+V1/about

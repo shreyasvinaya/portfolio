@@ -39,12 +39,12 @@ item:
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://courses.nvidia.com
+- certificate_url: https://courses.nvidia.com/certificates/b5fa5af4a61f46fb842036bc95fa6afb
   date_end: ""
   date_start: "2021-07-09"
   description: ""
-  organization: Nvidia
-  organization_url: https://courses.nvidia.com/certificates/b5fa5af4a61f46fb842036bc95fa6afb
+  organization: nvidia
+  organization_url: https://courses.nvidia.com
   title: NVIDIA DLI Certificate – Fundamentals of Accelerated Data Science with RAPIDS
   url: https://courses.nvidia.com/courses/course-v1:DLI+C-DS-02+V1/about
 

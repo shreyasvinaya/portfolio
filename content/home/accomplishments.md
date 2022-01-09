@@ -39,14 +39,14 @@ item:
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://courses.nvidia.com
+  date_end: ""
+  date_start: "2021-07-09"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: NVIDIA
+  organization_url: https://courses.nvidia.com
+  title: NVIDIA DLI Certificate – Fundamentals of Accelerated Data Science with RAPIDS
+  url: "https://courses.nvidia.com/certificates/b5fa5af4a61f46fb842036bc95fa6afb"
 
 design:
   columns: '2' 

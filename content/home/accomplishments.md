@@ -43,10 +43,10 @@ item:
   date_end: ""
   date_start: "2021-07-09"
   description: ""
-  organization: NVIDIA
-  organization_url: https://courses.nvidia.com
+  organization: Nvidia
+  organization_url: https://courses.nvidia.com/certificates/b5fa5af4a61f46fb842036bc95fa6afb
   title: NVIDIA DLI Certificate – Fundamentals of Accelerated Data Science with RAPIDS
-  url: "https://courses.nvidia.com/certificates/b5fa5af4a61f46fb842036bc95fa6afb"
+  url: https://courses.nvidia.com/courses/course-v1:DLI+C-DS-02+V1/about
 
 design:
   columns: '2' 

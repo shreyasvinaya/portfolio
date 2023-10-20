@@ -50,7 +50,7 @@ experience:
     company: Amrita Vishwa Vidyapeetham
     company_url: 'https://www.amrita.edu'
     company_logo: org-x
-    location: Goa, India
+    location: Bangalore, India
     date_start: '2021-06-01'
     date_end: '2023-01-01'
     description: |2-

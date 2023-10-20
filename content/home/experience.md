@@ -37,7 +37,7 @@ experience:
   - title: Student Researcher
     company: APPCAIR, Birla Institute of Technology & Science, Pilani
     company_url: 'https://web.bits-pilani.ac.in/APPCAIR/'
-    company_logo: appcair
+    company_logo: org-x
     location: Goa, India
     date_start: '2022-09-01'
     date_end: ''
@@ -49,7 +49,7 @@ experience:
   - title: Research Intern
     company: Amrita Vishwa Vidyapeetham
     company_url: 'https://www.amrita.edu'
-    company_logo: amrita
+    company_logo: org-x
     location: Goa, India
     date_start: '2021-06-01'
     date_end: '2023-01-01'

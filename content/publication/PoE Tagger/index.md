@@ -39,10 +39,9 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: poe_tagging_img.png
-summary: >-
-  The authors propose a system that can take an audio signal containing an
-  equation and convert it to its visual depiction.
+  filename: featured.png
+summary: The authors propose a system that can take an audio signal containing
+  an equation and convert it to its visual depiction.
 url_dataset: ""
 url_project: ""
 url_source: ""

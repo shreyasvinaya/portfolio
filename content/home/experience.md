@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
+  - title: Intern
+    company: Deep Forest Sciences
+    company_url: 'https://deepforestsci.com'
+    company_logo: dfs
     location: California
-    date_start: '2021-01-01'
+    date_start: '2023-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Contributed to open-source drug discovery toolkit - Deepchem[https://github.com/deepchem/deepchem]
+        * Migrated models to PyTorch, boosting user base by 92%
+        * Building Tools for AI aided Drug Discovery
         
   - title: Professor of Semiconductor Physics
     company: University X

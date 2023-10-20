@@ -1,14 +1,14 @@
 ---
-title: Shreyas V
 role: Student Researcher
-bio:
-  My research interests include Machine Learning, Natural Language Processing and
-  Drug Discovery.
+avatar_filename: 1645778628583.jpeg
+bio: My research interests include Machine Learning, Natural Language Processing
+  and Drug Discovery.
 interests:
   - Machine Learning
   - Natural Language Processing
   - Drug Discovery
   - Computational Bio-Chemistry
+  - Large Language Models
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,6 +28,8 @@ social:
 organizations:
   - name: Deep Forsest Sciences
     url: https://deepforestsci.com/
+  - name: APPCAIR
+    url: https://web.bits-pilani.ac.in/APPCAIR/
 education:
   courses:
     - course: BE in Computer Science
@@ -36,13 +38,11 @@ education:
     - course: MSc in Chemistry
       institution: BITS Pilani K K Birla Goa Campus
       year: 2025
-email: ""
 superuser: true
 highlight_name: true
+title: Shreyas V
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shreyas V, A BITS Pilani student, merges Chemistry and Computer Science to advance Natural Language Processing and AI-aided Drug Discovery. His impactful work with the Deepchem toolkit and unique research on interpreting spoken mathematical equations underscore his innovative spirit. Currently, Shreyas is working on Computational Bio-Chemistry and Large Language Models
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

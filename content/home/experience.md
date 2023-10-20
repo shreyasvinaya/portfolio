@@ -51,8 +51,8 @@ experience:
     company_url: 'https://www.amrita.edu'
     company_logo: amrita
     location: Goa, India
-    date_start: '2021'
-    date_end: '2023'
+    date_start: '2021-06-01'
+    date_end: '2023-01-01'
     description: |2-
         * Published a Paper Titled "Speech to Equation Conversion using a PoE Tagger"
         * Built a Novel architecture to deal with variability in the way math equations are spoken

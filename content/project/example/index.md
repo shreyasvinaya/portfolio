@@ -15,7 +15,7 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: b954c838-ba90-43ce-a56d-e4020f193ee3.webp
+  filename: dall·e-2023-10-21-02.37.43-photo-of-a-sleek-modern-humanoid-robot-with-a-screen-displaying-a-myriad-of-emotions.-the-robot-stands-in-a-lab-setting-equipped-with-sensors-captur.png
 url_code: ""
 ---
 Building an emotionally responsive Humanoid bot with knowledge capture , speech text generation using Generative Large Language Models

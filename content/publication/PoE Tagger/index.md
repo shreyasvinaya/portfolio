@@ -48,7 +48,7 @@ url_source: ""
 url_video: ""
 publication: In *2022 IEEE 7th International conference for Convergence in Technology*
 featured: true
-date: 2023-10-20T21:20:09.382Z
+date: 2022-04-06T21:20:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""

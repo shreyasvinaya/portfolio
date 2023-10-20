@@ -1,12 +1,14 @@
 ---
 title: Shreyas V
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Student Researcher
+bio:
+  My research interests include Machine Learning, Natural Language Processing and
+  Drug Discovery.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Natural Language Processing
+  - Drug Discovery
+  - Computational Bio-Chemistry
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shreyas-v1/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Deep Forsest Sciences
+    url: https://deepforestsci.com/
 education:
   courses:
     - course: BE in Computer Science

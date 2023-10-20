@@ -39,7 +39,7 @@ experience:
     company_url: 'https://web.bits-pilani.ac.in/APPCAIR/'
     company_logo: appcair
     location: Goa, India
-    date_start: '2022'
+    date_start: '2022-09-01'
     date_end: ''
     description: |2-
         * Examining the usage of Large Language Models to generate novel molecules for drug discovery

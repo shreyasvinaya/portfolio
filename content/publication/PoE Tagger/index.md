@@ -42,9 +42,7 @@ image:
   filename: poe_tagging_img.png
 summary: >-
   The authors propose a system that can take an audio signal containing an
-  equation and convert it to its visual
-
-  depiction.
+  equation and convert it to its visual depiction.
 url_dataset: ""
 url_project: ""
 url_source: ""

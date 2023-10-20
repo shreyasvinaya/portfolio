@@ -30,7 +30,7 @@ experience:
     date_start: '2023-06-01'
     date_end: ''
     description: |2-
-        * Contributed to open-source drug discovery toolkit - [Deepchem]{https://github.com/deepchem/deepchem}
+        * Contributed to open-source drug discovery toolkit - [Deepchem](https://github.com/deepchem/deepchem)
         * Migrated models to PyTorch, boosting user base by 92%
         * Building Tools for AI aided Drug Discovery
         
@@ -56,7 +56,7 @@ experience:
     description: |2-
         * Published a Paper Titled "Speech to Equation Conversion using a PoE Tagger"
         * Built a Novel architecture to deal with variability in the way math equations are spoken
-        * Worked under the guidance of [Prof Peeta Basa Pati]{https://sites.google.com/view/pbpati/home}
+        * Worked under the guidance of [Prof Peeta Basa Pati](https://sites.google.com/view/pbpati/home)
 
 design:
   columns: '2'

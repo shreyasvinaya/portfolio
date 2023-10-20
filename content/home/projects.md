@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Large Language Models
+    tag: LLM
+  - name: Drug Discovery
+    tag: Drug Discovery
+  - name: Natural Language Processing
+    tag: NLP
+  - name: Computational Bio-Chemistry
+    tag: Bio-Chemistry
   - name: Other
     tag: Demo
 

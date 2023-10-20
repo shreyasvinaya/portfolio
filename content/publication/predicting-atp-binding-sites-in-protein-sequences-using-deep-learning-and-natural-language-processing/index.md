@@ -1,8 +1,7 @@
 ---
 title: Predicting ATP binding sites in protein sequences using Deep Learning and
   Natural Language Processing
-publication_types:
-  - "3"
+publication_types: ["article"]
 authors:
   - admin
   - Swati A

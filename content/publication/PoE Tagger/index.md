@@ -33,8 +33,7 @@ projects:
   - PoE Tagger
 slides: PoE Tagger
 url_pdf: ""
-publication_types:
-  - "1"
+publication_types: ['paper-conference']
 image:
   caption: ""
   focal_point: smart

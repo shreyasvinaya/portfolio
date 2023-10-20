@@ -41,6 +41,8 @@ education:
 superuser: true
 highlight_name: true
 title: Shreyas V
+first_name: Shreyas
+last_name: Vinaya
 email: ""
 ---
 Shreyas V, A BITS Pilani student, merges Chemistry and Computer Science to advance Natural Language Processing and AI-aided Drug Discovery. His impactful work with the Deepchem toolkit and unique research on interpreting spoken mathematical equations underscore his innovative spirit. Currently, Shreyas is working on Computational Bio-Chemistry and Large Language Models
